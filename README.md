@@ -58,16 +58,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChoaibGoumri&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChoaibGoumri&theme=github-light&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoaibGoumri&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoaibGoumri&layout=compact&theme=github-light&hide_border=true" alt="Top Languages" />
 </p>
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RedMulaCrackIn&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ChoaibGoumri&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
