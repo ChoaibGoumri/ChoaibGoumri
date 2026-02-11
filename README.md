@@ -58,11 +58,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RedMulaCrackIn&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChoaibGoumri&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedMulaCrackIn&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoaibGoumri&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" />
 </p>
 
 
